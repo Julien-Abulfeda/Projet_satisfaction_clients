@@ -1,0 +1,15 @@
+mkdir -p ../../data/postegresql_db/pg_commit_ts
+mkdir -p ../../data/postegresql_db/pg_dynshmem
+mkdir -p ../../data/postegresql_db/pg_logical/mappings
+mkdir -p ../../data/postegresql_db/pg_logical/snapshots
+mkdir -p ../../data/postegresql_db/pg_notify
+mkdir -p ../../data/postegresql_db/pg_replslot
+mkdir -p ../../data/postegresql_db/pg_serial
+mkdir -p ../../data/postegresql_db/pg_snapshots
+mkdir -p ../../data/postegresql_db/pg_stat
+mkdir -p ../../data/postegresql_db/pg_twophase
+mkdir -p ../../data/postegresql_db/pg_tblspc
+mkdir -p ../../data/postegresql_db/pg_wal/archive_status
+mkdir -p ../../data/postegresql_db/pg_stat_tmp
+echo Setup finished.
+# docker-compose up

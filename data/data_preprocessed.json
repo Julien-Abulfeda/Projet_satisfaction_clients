@@ -1,0 +1,32 @@
+[
+  {
+    "company_id": "660d9c30893d3900a8f79b6d",
+    "company_name": "Evergreen Credit Union",
+    "reviews_nbr": 306,
+    "global_appreciation": "Excellent",
+    "global_rating": 4.9,
+    "company_categories": [
+      "Financial Institution",
+      "ATM",
+      "Credit Union"
+    ],
+    "company_location": "225 Riverside St. 04103 Portland United States ",
+    "company_phone": 2072215000,
+    "company_email": null,
+    "company_verified": true,
+    "comments": [
+      {
+        "comment_id": 1,
+        "customer_name": "Chris Biggar",
+        "rating": 5,
+        "verification_status": "Verified",
+        "customer_location": "US",
+        "comment_title": "Great customer service",
+        "comment_content": "Danielle in customer service was great in helping me track down a couple checks from 2021. ",
+        "comment_date": "2024-04-01",
+        "comment_date_of_experience": "2024-04-01",
+        "company_response": false
+      }
+    ]
+  }
+]

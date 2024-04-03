@@ -1,0 +1,340 @@
+[
+  {
+    "company_id": "66059696f55b7a00fd03b787",
+    "company_name": "Evergreen Credit Union",
+    "reviews_nbr": 303,
+    "global_appreciation": "Excellent",
+    "global_rating": 4.9,
+    "company_categories": [
+      "Financial Institution",
+      "ATM",
+      "Credit Union"
+    ],
+    "company_location": "225 Riverside St. 04103 Portland United States ",
+    "company_phone": 2072215000,
+    "company_email": null,
+    "company_verified": true
+  },
+  {
+    "company_id": "6605969ff55b7a00fd03b788",
+    "company_name": "Liberty First Credit Union",
+    "reviews_nbr": 270,
+    "global_appreciation": "Excellent",
+    "global_rating": 4.8,
+    "company_categories": [
+      "Credit Union",
+      "ATM",
+      "Car Finance and Loan Company",
+      "Financial Institution",
+      "Mortgage Lender"
+    ],
+    "company_location": "501 N. 46th St 68503 Lincoln United States ",
+    "company_phone": 4024651000,
+    "company_email": "info@libertyfirstcu.com",
+    "company_verified": true
+  },
+  {
+    "company_id": "660596a8f55b7a00fd03b789",
+    "company_name": "GoHenry by Acorns",
+    "reviews_nbr": 3145,
+    "global_appreciation": "Excellent",
+    "global_rating": 4.3,
+    "company_categories": [
+      "Alternative Financial Service",
+      "ATM",
+      "Bank",
+      "Educational Institution",
+      "Financial Institution",
+      "Non-Bank Financial Service"
+    ],
+    "company_location": "GoHenry Inc, 5300 California Avenue 92617 Irvine United States ",
+    "company_phone": 8773726466,
+    "company_email": "help@gohenrycard.com",
+    "company_verified": true
+  },
+  {
+    "company_id": "66059706f55b7a00fd03b78a",
+    "company_name": "Crypto Dispensers",
+    "reviews_nbr": 150,
+    "global_appreciation": "Average",
+    "global_rating": 3.6,
+    "company_categories": [
+      "Cryptocurrency Service",
+      "Alternative Financial Service",
+      "ATM",
+      "Investment Service",
+      "Money Transfer Service",
+      "Non-Bank Financial Service"
+    ],
+    "company_location": "205 N Michigan Avenue Suite 810 60601 Chicago United States ",
+    "company_phone": 8882125824,
+    "company_email": "support@cryptodispensers.com",
+    "company_verified": true
+  },
+  {
+    "company_id": "6605970af55b7a00fd03b78b",
+    "company_name": "Anytime Capital",
+    "reviews_nbr": 12,
+    "global_appreciation": "Excellent",
+    "global_rating": 4.4,
+    "company_categories": [
+      "Cryptocurrency Service"
+    ],
+    "company_location": "2549 Piedmont Rd NE Suite 110 30324 Atlanta United States ",
+    "company_phone": null,
+    "company_email": "hello@anytime-capital.com",
+    "company_verified": true
+  },
+  {
+    "company_id": "6605970bf55b7a00fd03b78c",
+    "company_name": "Swadesh",
+    "reviews_nbr": 10,
+    "global_appreciation": "Excellent",
+    "global_rating": 4.4,
+    "company_categories": [
+      "Financial Institution"
+    ],
+    "company_location": "156 2nd St, San Francisco, CA, US, 94105 94105 San Francisco United States ",
+    "company_phone": 919284957714,
+    "company_email": "help@swadesh.co",
+    "company_verified": true
+  },
+  {
+    "company_id": "6605970cf55b7a00fd03b78d",
+    "company_name": "NorthOne",
+    "reviews_nbr": 166,
+    "global_appreciation": "Great",
+    "global_rating": 4.2,
+    "company_categories": [
+      "Bank"
+    ],
+    "company_location": "401 Park Ave South 10016 New York United States ",
+    "company_phone": 13322059253,
+    "company_email": "support@northone.com",
+    "company_verified": true
+  },
+  {
+    "company_id": "66059712f55b7a00fd03b78e",
+    "company_name": "The Payment HQ",
+    "reviews_nbr": 4,
+    "global_appreciation": "Great",
+    "global_rating": 4.0,
+    "company_categories": [
+      "Business to Business Service"
+    ],
+    "company_location": "10850 Everly Way 92129 San Diego United States ",
+    "company_phone": 8585887676,
+    "company_email": "info@thepaymenthq.com",
+    "company_verified": true
+  },
+  {
+    "company_id": "66059713f55b7a00fd03b78f",
+    "company_name": "Meriwest Credit Union",
+    "reviews_nbr": 9,
+    "global_appreciation": "Great",
+    "global_rating": 3.8,
+    "company_categories": [
+      "Credit Union"
+    ],
+    "company_location": "5615 Chesbro Ave 95123 San Jose United States ",
+    "company_phone": 8776374937,
+    "company_email": "marketing@meriwest.com",
+    "company_verified": true
+  },
+  {
+    "company_id": "66059713f55b7a00fd03b790",
+    "company_name": "ASDFTEST",
+    "reviews_nbr": 1,
+    "global_appreciation": "Average",
+    "global_rating": 3.7,
+    "company_categories": [
+      "ATM"
+    ],
+    "company_location": "United States ",
+    "company_phone": null,
+    "company_email": null,
+    "company_verified": null
+  },
+  {
+    "company_id": "66059714f55b7a00fd03b791",
+    "company_name": "WPC Merchant Services & Credit Card Processing",
+    "reviews_nbr": 1,
+    "global_appreciation": "Average",
+    "global_rating": 3.7,
+    "company_categories": [
+      "Business to Business Service"
+    ],
+    "company_location": "58 Mallory Rd. 06783 Roxbury United States ",
+    "company_phone": 8559722867,
+    "company_email": "sales@wpc.services",
+    "company_verified": true
+  },
+  {
+    "company_id": "66059715f55b7a00fd03b792",
+    "company_name": "Kryptominerstech",
+    "reviews_nbr": 1,
+    "global_appreciation": "Average",
+    "global_rating": 3.7,
+    "company_categories": [
+      "Cryptocurrency Service"
+    ],
+    "company_location": "780 Laredo St, Laredo, TX 78040, United States 78040 Laredo United States ",
+    "company_phone": 15126868263,
+    "company_email": "info@kryptominerstech.com",
+    "company_verified": null
+  },
+  {
+    "company_id": "66059715f55b7a00fd03b793",
+    "company_name": "Slide2Thrive",
+    "reviews_nbr": null,
+    "global_appreciation": null,
+    "global_rating": 3.5,
+    "company_categories": [
+      "ATM"
+    ],
+    "company_location": "2007 LaFontaine Avenue ; 3J 10457 Bronx United States ",
+    "company_phone": 8444584748,
+    "company_email": "slide2thrive@gmail.com",
+    "company_verified": null
+  },
+  {
+    "company_id": "66059716f55b7a00fd03b794",
+    "company_name": "Cash Express",
+    "reviews_nbr": 16,
+    "global_appreciation": "Average",
+    "global_rating": 3.2,
+    "company_categories": [
+      "Loan Agency"
+    ],
+    "company_location": "345 South Jefferson Avenue 38501 Cookeville United States ",
+    "company_phone": null,
+    "company_email": null,
+    "company_verified": true
+  },
+  {
+    "company_id": "66059717f55b7a00fd03b795",
+    "company_name": "cryptobaseatm.com",
+    "reviews_nbr": 3,
+    "global_appreciation": "Average",
+    "global_rating": 3.2,
+    "company_categories": [
+      "Cryptocurrency Service"
+    ],
+    "company_location": "United States ",
+    "company_phone": null,
+    "company_email": null,
+    "company_verified": true
+  },
+  {
+    "company_id": "66059718f55b7a00fd03b796",
+    "company_name": "Coinhub Bitcoin ATM",
+    "reviews_nbr": 5,
+    "global_appreciation": "Average",
+    "global_rating": 3.0,
+    "company_categories": [
+      "ATM"
+    ],
+    "company_location": "3430 E Russell Rd, #330 89120-2201 Las Vegas United States ",
+    "company_phone": 7029002037,
+    "company_email": "info@coinhubatm.com",
+    "company_verified": true
+  },
+  {
+    "company_id": "66059719f55b7a00fd03b797",
+    "company_name": "Heritage Valley Federal Credit Union",
+    "reviews_nbr": 12,
+    "global_appreciation": "Average",
+    "global_rating": 2.9,
+    "company_categories": [
+      "Federal Credit Union"
+    ],
+    "company_location": "United States ",
+    "company_phone": null,
+    "company_email": null,
+    "company_verified": true
+  },
+  {
+    "company_id": "6605971af55b7a00fd03b798",
+    "company_name": "Coin Cloud",
+    "reviews_nbr": 105,
+    "global_appreciation": "Poor",
+    "global_rating": 1.8,
+    "company_categories": [
+      "Cryptocurrency Service"
+    ],
+    "company_location": "United States ",
+    "company_phone": 8552642046,
+    "company_email": "support@coin.cloud",
+    "company_verified": true
+  },
+  {
+    "company_id": "6605971ef55b7a00fd03b799",
+    "company_name": "PNC Bank",
+    "reviews_nbr": 1100,
+    "global_appreciation": "Bad",
+    "global_rating": 1.3,
+    "company_categories": [
+      "Bank"
+    ],
+    "company_location": "249 Fifth Ave 15222 Pittsburgh United States ",
+    "company_phone": 8887622265,
+    "company_email": null,
+    "company_verified": true
+  },
+  {
+    "company_id": "6605973df55b7a00fd03b79a",
+    "company_name": "Covault",
+    "reviews_nbr": null,
+    "global_appreciation": null,
+    "global_rating": 0.0,
+    "company_categories": [
+      "ATM"
+    ],
+    "company_location": "United States ",
+    "company_phone": null,
+    "company_email": "paul@covaultbtm.com",
+    "company_verified": null
+  },
+  {
+    "company_id": "6605973ff55b7a00fd03b79b",
+    "company_name": "Acme ATM",
+    "reviews_nbr": null,
+    "global_appreciation": null,
+    "global_rating": 0.0,
+    "company_categories": [
+      "ATM"
+    ],
+    "company_location": "1327 S Federal Hwy 33004 Dania Beach United States ",
+    "company_phone": 7865065658,
+    "company_email": "info@acmeatm.cash",
+    "company_verified": true
+  },
+  {
+    "company_id": "6605973ff55b7a00fd03b79c",
+    "company_name": "ATM Together",
+    "reviews_nbr": null,
+    "global_appreciation": null,
+    "global_rating": 0.0,
+    "company_categories": [
+      "ATM"
+    ],
+    "company_location": "424 15th St Apt 4403 92101 San Diego United States ",
+    "company_phone": 8449414309,
+    "company_email": "Support@ATMTogether.com",
+    "company_verified": null
+  },
+  {
+    "company_id": "66059741f55b7a00fd03b79d",
+    "company_name": "Nationwide Payment Systems",
+    "reviews_nbr": null,
+    "global_appreciation": null,
+    "global_rating": 0.0,
+    "company_categories": [
+      "Payment Service"
+    ],
+    "company_location": "1500 West Cypress Creek Road 33309 Fort Lauderdale United States ",
+    "company_phone": 9544787714,
+    "company_email": "info@nationwidepaymentsystems.com",
+    "company_verified": true
+  }
+]
